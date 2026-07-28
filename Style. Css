@@ -1,0 +1,24 @@
+import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+ :root {
+ --color-primary: #2563eb;
+ --color-primary-hover: #1d4ed8;
+ --color-secondary: #fbbf24;
+ --color-accent: #ec4899;
+ --color-background: #f9fafb;
+ --color-surface: #ffffff;
+ --color-surface-alt: #e5e7eb;
+ --color-text: #111827;
+ --color-text-muted: #6b7280;
+ --color-text-inverse: #ffffff;
+ --color-border: #d1d5db;
+ --color-border-light: #e5e7eb;
+ --font-heading: 'Montserrat', sans-serif;
+ --font-body: 'Roboto', sans-serif;
+ --font-weight-primary: 500;
+ --radius-base: 4px;
+ --radius-large: 8px;
+ --shadow-soft: 0 2px 4px rgba(0, 0, 0, 0.1);
+ --shadow-card: 0 4px 8px rgba(0, 0, 0, 0.1);
+ --container-width: 1200px;
+ }
